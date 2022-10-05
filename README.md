@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a DevOps Automation project<br>👯 I’m looking to collaborate on Terraform and Azure DevOps Projects<br>🌱 I’m currently learning Kubernetes Deep-Dive<br>💬 Ask me about<br>⚡ Fun fact - I love instrumentals
+🔭 I’m currently working on a DevOps Automation project as a Consultant<br>👯 I’m looking to collaborate on Terraform and Azure DevOps Projects<br>🌱 I’m currently learning Kubernetes Deep-Dive<br>💬 Ask me about - Kubernetes, Ansible, Azure/AWS cloud<br>⚡ Fun fact - I love instrumentals
 
 
 ## 🌐 Socials:
